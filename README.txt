@@ -1,5 +1,5 @@
 UFV - CRP 
-Projeto 2 da Disciplina SIN 351 (Sistemas Operacionais) com o intuito de se implementar algoritmos de substituição de páginas.
+Projeto da Disciplina SIN 351 (Sistemas Operacionais) com o intuito de se implementar algoritmos de substituição de páginas.
 
 Aluno: Marcel Kendy Rabelo Matsumoto 
 Matrícula: 5200
